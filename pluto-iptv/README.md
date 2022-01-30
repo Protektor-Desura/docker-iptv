@@ -10,6 +10,7 @@ Run
 ```bash
 npx pluto-iptv
 ```
+This will create an `epg.xml` file and a `playlist.m3u` file
 
 or
 
@@ -17,4 +18,10 @@ or
 perl plutotv-generate.pl [--createm3u] [--usebash] [--useffmpeg | --usestreamlink]
 ```
 
-This will create an `epg.xml` file and a `playlist.m3u` file
+or
+
+```bash
+python3 PlutoTV_EPG.py
+````
+
+
