@@ -10,5 +10,5 @@ Run
 ```bash
 python3 plutotv.py
 ````
-This will create `plutotv.xml` and `plutotv.m3u` file.
+This will create M3U and XMLTV files.
 
