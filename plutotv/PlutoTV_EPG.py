@@ -5,6 +5,21 @@ from datetime import datetime, timedelta
 from subprocess import Popen
 import json
 
+from pluto_tv_m3u8 import Pluto
+
+# Automatically gets the channels data from pluto.tv
+pluto = Pluto()
+
+# list of dicts with the channels data
+print(len(pluto.channels))
+
+# you can generates a m3u8 string with the channels
+m3u8_str = pluto.generate_m3u8()
+
+# and also write the m3u8 file directly to disk
+pluto.write_m3u8()
+
+
 chList = []
 now = datetime.now().strftime('%Y-%m-%dT%H:%M:%S.000Z')
 later = (datetime.now() + timedelta(days=1)).strftime('%Y-%m-%dT%H:%M:%S.000Z')
