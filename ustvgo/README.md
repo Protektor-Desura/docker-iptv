@@ -1,9 +1,13 @@
-## ustvgo
+# Plex TV
 
-Grabs m3u and EPF from ustvgo.tv
+Grab EPG & M3U from ustvgo.tv
 
-#### Usage
 
-``` bash
+## Usage
+
+Run
+
+```bash
 python3 ustvgo.py
-```
+````
+This will create an M3U and XMLTV file.
