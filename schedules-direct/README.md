@@ -1,8 +1,3 @@
-Robert Kulagowski
-grabber@schedulesdirect.org
-
-v0.23 2013-10-11
-
 Please see the Wiki at https://github.com/SchedulesDirect/JSON-Service/wiki for
 information regarding the format and the field descriptions.
 
