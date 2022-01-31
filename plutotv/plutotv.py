@@ -54,7 +54,7 @@ def getValues(channel):
                 theList.append(f"{start} Uhr: {title}\n{desc}\n")
     return theList
     
-with open("pluto-guide.xml", "w") as f:
+with open("plutotv.xml", "w") as f:
     for ch in chList:   
         f.write(f"######## {ch.replace('Pluto TV ', '')} ########\n")
         
@@ -62,5 +62,5 @@ with open("pluto-guide.xml", "w") as f:
         f.write('\n\n')
     f.close()
     
-Popen(["xdg-open", "pluto-guide.xml"])
+Popen(["xdg-open", "plutotv.xml"])
                 
