@@ -92,10 +92,3 @@ The included tv_grab_sd.conf file contains some examples of how to retrieve
 various JSON objects from the server and one possible way that they could be
 parsed in perl. This program is not intended to be a full-featured grabber
 for users without extensive modification.
-
-The beta service is open to all Schedules Direct users. Developers should
-use the "Developers Corner" forum at
-
-http://forums.schedulesdirect.org/viewforum.php?f=8
-
-for assistance.
