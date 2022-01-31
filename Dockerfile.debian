@@ -1,13 +1,13 @@
 # Pull the base image	
 ARG BASE_IMAGE=unknown
 FROM ${BASE_IMAGE}
-MAINTAINER chris102994<chris102994@yahoo.com>
+MAINTAINER protektor
 
 ARG BUILD_DATE
 ARG VERSION
 ARG VCS_REF
 LABEL org.label-schema.vcs-ref=$VCS_REF \
-      org.label-schema.vcs-url="https://github.com/chris102994/docker-plutotv"
+      org.label-schema.vcs-url="https://github.com/protektor-desura/docker-iptv"
 # Add Local Files
 COPY rootfs/ /
 
