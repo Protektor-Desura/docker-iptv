@@ -1,4 +1,9 @@
-### zap2xml 
+## zap2xml 
+
+### TV Guide
+
+zap2it -z -Z <zipcode> 
+
 ```  
   -u <username>
   -p <password>
