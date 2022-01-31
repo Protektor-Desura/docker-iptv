@@ -21,7 +21,7 @@ perl plutotv-generate.pl [--createm3u] [--usebash] [--useffmpeg | --usestreamlin
 or
 
 ```bash
-python3 PlutoTV_EPG.py
+python3 Plutotv.py
 ````
 
 
