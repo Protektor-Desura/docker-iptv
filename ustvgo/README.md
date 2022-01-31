@@ -10,4 +10,5 @@ Run
 ```bash
 python3 ustvgo.py
 ````
-This will create an M3U and XMLTV file.
+
+This will create M3U and XMLTV files.
