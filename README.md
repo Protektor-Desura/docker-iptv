@@ -1,6 +1,6 @@
 A collection of IPTV scripts to get Live TV over the internet.
 
-[PlutoTV](https://www.PlutoTV.com/) is an American internet television service owned by ViacomCBS. Pluto is a free, advertiser-supported video on demand (AVOD) service.  Pluto TV as of March 2020 has deals with 170 content partners providing more than 250 channels and 100,000 unique hours worth of programming.
+[PlutoTV](https://www.PlutoTV.com/) is an American internet television service owned by ViacomCBS. Pluto is a free, advertiser-supported video on demand (AVOD) service.  Pluto TV as of March 2020 has deals with 170 content partners providing more than 250 channels.
 
 This is a simple project that scrapes the website and generates an M3U playlist every 8 hours along with a XMLTV object that is hosted over NGINX.
 
