@@ -1,8 +1,5 @@
 A collection of IPTV scripts to get Live TV over the internet.
 
-[![https://www.pluto.tv/](https://corporate.pluto.tv/wp-content/uploads/2017/03/Pasted-image-at-2017_03_14-06_22-PM-960x540.png)](https://www.pluto.tv/)
-
-
 [PlutoTV](https://www.PlutoTV.com/) is an American internet television service owned by ViacomCBS. Pluto is a free, advertiser-supported video on demand (AVOD) service that primarily offers a selection of programming content through digital linear channels designed to emulate the experience of traditional broadcast programming. The service's revenue is generated from video advertisements seen during programming within ad breaks structured similarly to those found on conventional television.
 
 Pluto TV licenses its content directly from providers, and as of March 2020 has deals with 170 content partners providing more than 250 channels and 100,000 unique hours worth of programming. Its content is available via its website and supported apps.
