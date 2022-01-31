@@ -1,5 +1,5 @@
 ### zap2xml 
-  
+```  
   -u <username>
   -p <password>
   -d <# of days> (default = $days)
@@ -37,4 +37,4 @@
   -z = use tvguide.com instead of zap2it.com
   -a = output all channels (not just favorites) 
   -j = add "series" category to all non-movie programs
-  `
+  ```
