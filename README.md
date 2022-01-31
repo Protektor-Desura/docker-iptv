@@ -10,7 +10,7 @@ The XMLTV and M3U playlist can be directly imported to Emby or Plex. Or if you'd
 ## Docker
 ```
 docker run \
-	--name=docker-plutotv \
+	--name=docker-iptv \
 	-p 8000:8000 \
 	-v </path/to/appdata/config>:/config \
 	--restart unless-stopped \
@@ -30,6 +30,7 @@ Container specific parameters passed at runtime. The format is `<external>:<inte
 | -e PGID | The GID you wish to run and save files as. (Optional) |
 | -e LOG_LEVEL | The Python Logging log level for the PTV Scraper. (Default: ERROR) |
 | -e PLUTO_USER_ID | Your Pluto User ID. (Default: None) |
+
 ## Application Setup
 
 The basic index is available at `http://<ip>:<port>/`
