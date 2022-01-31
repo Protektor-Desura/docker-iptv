@@ -1,6 +1,6 @@
-## ustvgo_to_m3u
+## ustvgo
 
-Grabs m3u and EPG/ from ustvgo.tv
+Grabs m3u and EPF from ustvgo.tv
 
 #### Usage
 
