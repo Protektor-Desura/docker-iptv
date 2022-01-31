@@ -8,7 +8,7 @@ Grab EPG & M3U from Pluto.tv
 Run
 
 ```bash
-npx pluto-iptv
+python plutotv.pl
 ```
 This will create an `epg.xml` file and a `playlist.m3u` file
 
