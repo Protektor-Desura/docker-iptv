@@ -5,7 +5,7 @@ Grabs m3u links from ustvgo.tv
 #### Usage
 
 ``` bash
-autorun.sh
+python3 ustvgo_m3ugrabber.py
 ```
 
 #### To run automatically every 3 hours:
