@@ -18,8 +18,8 @@ default_headers = {
 xml_constants = {
     'source-info-url': 'https://www.plex.tv/watch-free-tv/',
     'source-info-name': 'plex.tv',
-    'generator-info-name': 'web2tv',
-    'generator-info-url': 'https://github.com/ReenigneArcher/web2tv'
+    'generator-info-name': 'plextv',
+    'generator-info-url': 'https://github.com/Protektor-Desura/plextv'
 }
 
 # dictionary prebuild
