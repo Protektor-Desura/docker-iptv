@@ -23,5 +23,5 @@ or
 ```bash
 python3 PlutoTV_EPG.py
 ````
-This will create an XMLTV file.
+This will create an `pluto-guide.xml` file.
 
