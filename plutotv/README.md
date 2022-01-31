@@ -8,7 +8,7 @@ Grab EPG & M3U from Pluto.tv
 Run
 
 ```bash
-python3 PlutoTV.py
+python3 plutotv.py
 ````
-This will create an `pluto-guide.xml` file.
+This will create `pluto-guide.xml` and `plutotv.m3u` file.
 
