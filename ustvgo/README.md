@@ -1,4 +1,4 @@
-# Plex TV
+# USTVGO
 
 Grab EPG & M3U from ustvgo.tv
 
